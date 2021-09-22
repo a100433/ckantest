@@ -1,3 +1,0 @@
-include README.rst
-include LICENSE
-recursive-include ckanext/saml2auth *.html *.json *.js *.less *.css *.mo
